@@ -6,3 +6,6 @@ voila
 matplotlib
 seaborn
 numpy
+pandas
+ipywidgets
+itables
